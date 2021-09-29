@@ -1,0 +1,9 @@
+{
+    "name": "txtmultipledelimiterwriter",
+    "parameter": {
+        "path": [],
+        "encoding": "",
+        "column": [],
+        "fieldDelimiter": ""
+    }
+}
